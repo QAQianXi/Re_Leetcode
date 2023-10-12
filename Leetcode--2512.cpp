@@ -21,7 +21,7 @@ using namespace std;
         return [recordFirst.get()[1] for i in range(k)]
  */
 
-class Solution {    // TODO 2023/10/23 Python已过 缺少C++写法
+class Solution {    // TODO 2023/10/11 Python已过 缺少C++写法
 public:
     vector<int> topStudents(vector<string>& positive_feedback, vector<string>& negative_feedback, vector<string>& report, vector<int>& student_id, int k) {
 

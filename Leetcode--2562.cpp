@@ -12,7 +12,7 @@ using namespace std;
             countNums += recordQueue.pop()
         return countNums
  */
-class Solution {    // TODO 2023/10/22 Python已过 缺少C++写法
+class Solution {    // TODO 2023/10/12 Python已过 缺少C++写法
 public:
     long long findTheArrayConcVal(vector<int>& nums) {
 
