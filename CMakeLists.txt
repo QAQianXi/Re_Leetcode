@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.25)
+project(Re_LeetCode)
+
+set(CMAKE_CXX_STANDARD 23)
+
+add_executable(Leetcode--0035 Leetcode--0035.cpp)
+add_executable(Leetcode--0034 Leetcode--0034.cpp)
+add_executable(Leetcode--0069 Leetcode--0069.cpp)
+add_executable(Leetcode--0367 Leetcode--0367.cpp)
+add_executable(Leetcode--0188 Leetcode--0188.cpp)
+add_executable(Leetcode--0026 Leetcode--0026.cpp)
+add_executable(Leetcode--0901 Leetcode--0901.cpp)
+add_executable(Leetcode--2034 Leetcode--2034.cpp)
+add_executable(Leetcode--0122 Leetcode--0122.cpp)
+add_executable(Leetcode--2578 Leetcode--2578.cpp)
+add_executable(Leetcode--2371 Leetcode--2371.cpp)
+add_executable(Leetcode--2562 Leetcode--2562.cpp)
