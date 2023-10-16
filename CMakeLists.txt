@@ -15,3 +15,8 @@ add_executable(Leetcode--0122 Leetcode--0122.cpp)
 add_executable(Leetcode--2578 Leetcode--2578.cpp)
 add_executable(Leetcode--2371 Leetcode--2371.cpp)
 add_executable(Leetcode--2562 Leetcode--2562.cpp)
+add_executable(Leetcode--2512 Leetcode--2512.cpp)
+
+add_executable(Leetcode--1488 Leetcode--1488.cpp)
+add_executable(Leetcode--0136 Leetcode--0136.cpp)
+add_executable(Leetcode--0137 Leetcode--0137.cpp)
